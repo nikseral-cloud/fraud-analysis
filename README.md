@@ -20,7 +20,9 @@ Fraud detection analysis using synthetic transaction data (Python, pandas)
 - Выявлены фрод-паттерны:
   - частые транзакции (bruteforce)
   - смена стран
+  - смена устройств и IP-адресов
   - рост сумм
+  - нетипичная активность за час
 - Разработаны правила (if-then логика)
 
 ## Технологии
