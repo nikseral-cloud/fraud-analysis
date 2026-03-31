@@ -27,7 +27,8 @@ Fraud detection analysis using synthetic transaction data (Python, pandas)
 
 ## Технологии
 - Python (pandas)
-- Jupyter Notebook
+- SQL (PostgreSQL)
+- Google Colab
 
 ## Результат
 Сформированы правила детекции мошенничества и проведён анализ данных.
